@@ -36,3 +36,6 @@ telegram <- function(...){
 
 telegram("hola","soy","Marta")
 telegram("I", "want", "to", "make", "new", "commits")
+
+telegram("This", "is", "a", "trial!")
+telegram("This", "is", "a", "trial2!")
