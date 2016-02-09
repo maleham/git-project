@@ -33,3 +33,6 @@
 telegram <- function(...){
   paste("START", ..., "STOP")
 }
+
+telegram("hola","soy","Marta")
+telegram("I", "want", "to", "make", "new", "commits")
